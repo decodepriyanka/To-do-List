@@ -21,4 +21,4 @@ Project is created with:
 * Deletion can also be done for the respective lists.
 
 ### Launch 
-Any user can use the app using the [link] (https://anupam-todoapp.netlify.app/)
+LINK :  https://stalwart-kelpie-82c3e1.netlify.app/)
