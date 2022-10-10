@@ -21,4 +21,4 @@ Project is created with:
 * Deletion can also be done for the respective lists.
 
 ### Launch 
-LINK :  https://stalwart-kelpie-82c3e1.netlify.app/)
+LINK :  https://stalwart-kelpie-82c3e1.netlify.app/
